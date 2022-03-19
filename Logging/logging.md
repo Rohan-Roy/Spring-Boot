@@ -5,4 +5,4 @@
 - By default, when any "Starter" is used, "Logback" is included for logging.
 
 - Default Log output in Spring has the following format:
-    < Date > < Time > < Log Level > < Process Id > <---> < Thread Name > < Logger Name > < Log Message >
+    - - < Date > < Time > < Log Level > < Process Id > <---> < Thread Name > < Logger Name > < Log Message >
