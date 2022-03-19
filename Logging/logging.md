@@ -6,9 +6,7 @@
 
 - Default Log output in Spring has the following format:
     - < Date > < Time > < Log Level > < Process Id > <---> < Thread Name > < Logger Name > < Log Message >
-</br>
-    Example:
-</br>
 
+    Example:</br>
     - 2022-03-19 03:06:37.938  INFO 3488 --- [  restartedMain] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080
 
